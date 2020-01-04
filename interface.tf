@@ -3,7 +3,7 @@ variable "region" {
   description = "The AWS region."
 }
 variable "prefix" {
-  default     = "companycom"
+  default     = "fopingncompagny77"
   description = "The name of our company"
 }
 variable "environment" {
